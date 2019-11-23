@@ -1,3 +1,1 @@
-import './style.scss'
-
-console.log("hi there")
+import './styles/main.scss'
